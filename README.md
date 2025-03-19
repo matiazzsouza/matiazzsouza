@@ -17,6 +17,10 @@
   <img align="center" alt="Mateus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Mateus-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="center" alt="ROS2" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
+  <img align="center" alt="Assembly-x86" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Intel_8086_arch.svg/256px-Intel_8086_arch.svg.png">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
   
 ##
@@ -30,4 +34,3 @@
   <a href="https://www.linkedin.com/in/matiazzsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/matiazzsouza/matiazzsouza/blob/output/snake.svg)
