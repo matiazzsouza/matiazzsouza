@@ -1,4 +1,4 @@
-## Olá, sou Mateus Marinho, estudante de Engenharia de Software 💻✏
+## Olá sou Mateus Marinho, estudante de Engenharia de Software 💻✏
 
 <div>
   <a href="https://beacons.ai/matiazzsouza">
