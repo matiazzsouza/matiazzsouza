@@ -16,7 +16,6 @@
   <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mateus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="ROS2" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
   <img align="center" alt="Assembly" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Microprocessor.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Mateus-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
