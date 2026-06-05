@@ -6,7 +6,12 @@
 ---
 
 <!-- STATS -->
-
+<div align="center">
+  <a href="https://beacons.ai/matiazzsouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiazzsouza&show_icons=true&theme=radical&count_private=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiazzsouza&layout=compact&langs_count=10&theme=radical&cache_seconds=86400"/>
+  </a>
+</div>
 
 ---
 
