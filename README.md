@@ -15,23 +15,20 @@ Crio APIs com **Node.js, TypeScript e Java**, integrando bancos **relacionais e 
 - 📍 Paulínia - SP
 - 🌎 Inglês intermediário (B1/B2)
 
-##  Stacks
+##  Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp,nodejs,express,spring,mysql,postgres,mongodb,firebase,supabase,html,css,react,vite,git,github,docker,linux&perline=11&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp&theme=dark" /> 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" /> 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark" /> 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" /> 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" /> 
-
-##  GitHub
+## 📊 GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=matiazzsouza&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=8A2BE2&text_color=c9d1d9&locale=pt-br" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiazzsouza&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=c9d1d9&locale=pt-br" />
 </p>
 
-## 📫 Contato
+##  Contato
 
 <p align="center">
   <a href="mailto:matiazzsouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
