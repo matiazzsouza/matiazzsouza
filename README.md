@@ -1,94 +1,44 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=200&section=header&text=Mateus%20Marinho&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Engenharia%20de%20Software&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=180&section=header&text=Mateus%20Marinho&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Backend&descAlignY=56&descSize=18&animation=fadeIn" />
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=FF00FF&size=24&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+o+Mateus+Marinho+👋;Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend;Node.js+%7C+TypeScript+%7C+APIs+%7C+Banco+de+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=FF00FF&size=22&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software+%40+PUC-Campinas;Backend+com+Node.js%2C+TypeScript+e+Java;APIs+REST+%7C+Regras+de+neg%C3%B3cio+%7C+Bancos+de+dados" />
 </p>
 
-<!-- BADGES DE TOPO -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusmarinho&color=8A2BE2&style=flat-square&label=Visitas" />
-  <img src="https://img.shields.io/badge/Paulínia-SP-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Backend-FF00FF?style=flat-square&logo=serverless&logoColor=white" />
-</p>
+##  Sobre mim
 
----
+Estudante de **Engenharia de Software na PUC-Campinas**, com foco em **desenvolvimento backend**.
+Crio APIs com **Node.js, TypeScript e Java**, integrando bancos **relacionais e não relacionais**, com atenção a **regras de negócio, validação de dados e segurança**.
 
-## 🚀 Sobre mim
-
-```ts
-const mateus = {
-  curso: "Engenharia de Software",
-  semestre: 3,
-  local: "Paulínia - SP",
-  foco: "Desenvolvimento Backend",
-  experiencia: ["APIs REST", "Regras de negócio", "Bancos de dados", "Validações e segurança"],
-  stack: ["Node.js", "TypeScript", "Express", "MySQL", "Firebase"],
-  estudandoAgora: "Sistemas Operacionais",
-};
-```
-
-- 🎓 Estudante de **Engenharia de Software** (3º semestre)
-- ⚙️ Foco em **desenvolvimento backend**, com APIs e regras de negócio
-- 🛠️ Experiência prática criando **APIs com Node.js e TypeScript**, integrando **bancos de dados** e implementando **validações e segurança**
+- 🎯 Buscando oportunidade de **estágio em backend**
 - 📍 Paulínia - SP
+- 🌎 Inglês intermediário (B1/B2)
 
----
+##  Stacks
 
-## ⚡ Tecnologias
 
-<h3 align="center">Linguagens</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,c,cpp&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" /> 
+
+##  GitHub
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matiazzsouza&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=8A2BE2&text_color=c9d1d9&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiazzsouza&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=c9d1d9&locale=pt-br" />
 </p>
 
-<h3 align="center">Backend & Banco de Dados</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark" />
-</p>
-
-<h3 align="center">Ferramentas</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
-</p>
-
----
-
-## 📊 Estatísticas no GitHub
+## 📫 Contato
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateusmarinho&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=8A2BE2&text_color=ffffff&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmarinho&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=ffffff&locale=pt-br" />
+  <a href="mailto:matiazzsouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mateus-marinho-5a3517357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mateusmarinho.github.io/"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mateusmarinho&theme=radical&hide_border=true&background=0d1117&ring=FF00FF&fire=8A2BE2&currStreakLabel=FF00FF&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusmarinho&bg_color=0d1117&color=ffffff&line=FF00FF&point=8A2BE2&area=true&area_color=8A2BE2&hide_border=true" />
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="mailto:matiazzsouza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/matiazzsouza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mateusmarinho.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:8A2BE2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:8A2BE2&height=100&section=footer" />
 </p>
