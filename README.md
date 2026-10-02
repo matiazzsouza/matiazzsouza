@@ -32,8 +32,8 @@ Crio APIs com **Node.js, TypeScript e Java**, integrando bancos **relacionais e 
 
 <p align="center">
   <a href="mailto:matiazzsouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mateus-marinho-5a3517357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mateusmarinho.github.io/"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mateusmarinho07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://v0-mateusportifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
